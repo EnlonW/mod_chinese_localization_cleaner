@@ -1,0 +1,2 @@
+# mod_chinese_localization_cleaner
+ModChineseLocalizationCleaner 检测并清理 CK3 模组中的假中文本地化
